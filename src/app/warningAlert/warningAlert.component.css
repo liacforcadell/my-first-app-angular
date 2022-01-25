@@ -1,0 +1,14 @@
+.container-warning {
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.warning {
+  padding: 10px 20px;
+  color: #fff;
+  font-size: 2rem;
+  border-radius: 10px;
+  background-color: rgb(194, 65, 65);
+}
